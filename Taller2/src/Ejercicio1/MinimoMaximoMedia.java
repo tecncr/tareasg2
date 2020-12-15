@@ -1,6 +1,5 @@
-import javax.swing.JOptionPane;
-
 package Ejercicio1;
+import javax.swing.JOptionPane;
 
 public class MinimoMaximoMedia {
     
