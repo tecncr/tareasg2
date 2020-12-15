@@ -31,10 +31,8 @@ public class MinimoComunMultiplo {
     }
 
     public static void main(String[] args) {
-	int a, b, c, div, min, mid, max, mcm_acum;
-        min = 0; mid = 0; max = 0;
-	mcm_acum = 1;
-	JOptionPane.showMessageDialog(null, "Este es un programa que calcula el MCM de tres números.", "Bienvenido", 1);
+	int a, b, c;
+	JOptionPane.showMessageDialog(null, "Este es un programa que calcula el Mínimo Común Múltiplo de tres números.", "Bienvenido", 1);
 	a = ingresar_validar("primer");
 	b = ingresar_validar("segundo");
 	c = ingresar_validar("tercer");
