@@ -1,4 +1,4 @@
-package Ejercicio11;
+package Ejercicio12;
 import javax.swing.JOptionPane;
 
 public class CreditosUniversidad {
